@@ -9,5 +9,7 @@ Directories
 - account - A normal, Django app. In the models.py file, you will find an example of a model that inherits a base model and uses a mixin.
 
 You can find the article for this repository on my blog at 
+https://www.brockherion.com/creating-reusable-models-with-django-and-mixins/
 
 or on Medium at
+https://brockjosephherion.medium.com/creating-reusable-models-with-django-and-mixins-2126c5f11eac
